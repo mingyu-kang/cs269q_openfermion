@@ -6,8 +6,8 @@ Input info about the molecule, then returns(?) all the information we need about
 
 .
 
-Get Hamiltonian from OpenFermion
+1. Get Hamiltonian from OpenFermion
 
-Use ForestOpenFermion/PyQuil to run quantum algorithm
+2. Use ForestOpenFermion/PyQuil to run quantum algorithm
 
-Compare wiht classical data from OpenFermion
+3. Compare with classical data from OpenFermion
