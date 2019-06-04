@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfdbc7e-e895-41c4-ab2e-0bdae529f989" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/LiH ground state energy plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LiH ground state energy plot.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/BeH2_UCC-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/LiH Hardware Ansatz-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeH2_UCC.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LiH Hardware Ansatz.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PLOT1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PLOT2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/H2 Hardware Ansatz-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/H2 Hardware Ansatz-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/LiH_UCC-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/LiH_UCC-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H2 Hardware Ansatz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/H2 Hardware Ansatz.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/H2 UCC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/H2 UCC.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LiH_UCC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LiH_UCC.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
