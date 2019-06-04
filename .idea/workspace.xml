@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cfdbc7e-e895-41c4-ab2e-0bdae529f989" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/h2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/molecule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/h2 ground state energy plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/h2 ground state energy plot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiH ground state energy plot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LiH ground state energy plot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiH_UCC.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/LiH_UCC.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,20 +32,11 @@
       <file leaf-file-name="molecule.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/molecule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
+            <state relative-caret-position="179">
               <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hydrogen UCC.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Hydrogen UCC.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -69,6 +59,7 @@
         <option value="$PROJECT_DIR$/h2 ground state energy plot.ipynb" />
         <option value="$PROJECT_DIR$/h2.py" />
         <option value="$PROJECT_DIR$/molecule.py" />
+        <option value="$PROJECT_DIR$/LiH ground state energy plot.ipynb" />
       </list>
     </option>
   </component>
@@ -215,9 +206,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LiH_UCC.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiH ground state energy plot.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/molecule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="179">
           <caret line="24" column="15" selection-start-line="24" selection-start-column="15" selection-end-line="24" selection-end-column="15" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
