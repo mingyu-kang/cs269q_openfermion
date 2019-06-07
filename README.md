@@ -1,4 +1,4 @@
-# cs269q_openfermion
+# CS269Q Final Project
 
 This is the repository for CS269Q final project - **Finding Ground State Energy of Molecules with Variational Quantum Eigensolver** by Mingyu Kang and Jaebum Lee
 
