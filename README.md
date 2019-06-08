@@ -17,7 +17,7 @@ Those two computes the ground state energy of H2 using hardware ansatz and UCC r
 
 Following computes the ground state energy of H2 using UCC with Quantum Virtual Machine (QVM)
 
-- H2 UCC QVM.ipynb
+- H2 UCC-QVM.ipynb
 
 Those two computes the ground state energy of LiH using hardware ansatz and UCC respectively.
 
