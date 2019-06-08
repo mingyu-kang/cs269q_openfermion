@@ -10,10 +10,14 @@ Also, you may need to install [psi4 using the guideline here](http://www.psicode
 
 ### Files
 
-Those two computes the ground state energy of H2 using hardware ansatz and UCC respectively.
+Those two computes the ground state energy of H2 using hardware ansatz and UCC respectively, with WavefunctionSimulator.
 
 - H2 Hardware Ansatz.ipynb
 - H2 UCC.ipynb
+
+Following computes the ground state energy of H2 using UCC with Quantum Virtual Machine (QVM)
+
+- H2 UCC QVM.ipynb
 
 Those two computes the ground state energy of LiH using hardware ansatz and UCC respectively.
 
